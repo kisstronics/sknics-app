@@ -54,6 +54,6 @@ export const knicsApps: KnicsApp[] = [
     category: 'Wealth',
     href: env.VITE_APP_FINGOAT_URL || 'https://finance.sknics.com',
     accent: '#1d6b73',
-    status: 'building',
+    status: 'live',
   },
 ];
